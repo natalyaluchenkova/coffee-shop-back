@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e43269ca.chunk.css",
+    "main.css": "/static/css/main.ea4b2166.chunk.css",
     "main.js": "/static/js/main.2f1e15da.chunk.js",
     "main.js.map": "/static/js/main.2f1e15da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ae062bce.js",
@@ -10,7 +10,7 @@
     "static/js/2.6aa44047.chunk.js.map": "/static/js/2.6aa44047.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.165ff965.chunk.css.map": "/static/css/2.165ff965.chunk.css.map",
-    "static/css/main.e43269ca.chunk.css.map": "/static/css/main.e43269ca.chunk.css.map",
+    "static/css/main.ea4b2166.chunk.css.map": "/static/css/main.ea4b2166.chunk.css.map",
     "static/js/2.6aa44047.chunk.js.LICENSE.txt": "/static/js/2.6aa44047.chunk.js.LICENSE.txt",
     "static/media/back-product-page.a3292f15.png": "/static/media/back-product-page.a3292f15.png",
     "static/media/back_category.31cdee8b.png": "/static/media/back_category.31cdee8b.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.ae062bce.js",
     "static/css/2.165ff965.chunk.css",
     "static/js/2.6aa44047.chunk.js",
-    "static/css/main.e43269ca.chunk.css",
+    "static/css/main.ea4b2166.chunk.css",
     "static/js/main.2f1e15da.chunk.js"
   ]
 }
